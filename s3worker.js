@@ -1,3 +1,4 @@
+// https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.htm
 // https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/creating-and-calling-service-objects.html
 
 const AWS = require('aws-sdk')
